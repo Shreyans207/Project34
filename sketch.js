@@ -8,7 +8,6 @@ var engine,world;
 
 function preload() {
   backgroundImg = loadImage("Images/GamingBackground.png");
-  monsterImage = loadImage("Images/Monster-02.png");
 }
 
 function setup() {
